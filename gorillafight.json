@@ -1,20 +1,20 @@
 {
-    "name": "GORILLAFIGHT",
-    "symbol": "GFIGHT",
-    "description": "They said 100 men could take him down. $GORILLAFIGHT just showed the jungle who runs Solana. Meme. Movement. Mayhem.",
-    "
-    "extensions": {
-        "website": "https://pump.fun",
-        "twitter": "https://twitter.com/GorillaFightCoin",
-        "discord": "https://discord.gg/gorillafight"
-    },
-    "properties": {
-        "files": [
-            {
-                "uri": "gorillafight_logo.png",
-                "type": "image/png"
-            }
-        ],
-        "category": "image"
-    }
+  "name": "GORILLAFIGHT",
+  "symbol": "GFIGHT",
+  "description": "They said 100 men could take him down. $GORILLAFIGHT just showed the jungle who runs Solana. Meme. Movement. Mayhem.",
+  "image": "https://raw.githubusercontent.com/GORILLAFIGHT/gorillafight-token/refs/heads/main/A5D2E632-8C62-44B0-ACE4-CE40D4A6F89E.png",
+  "extensions": {
+    "website": "https://pump.fun",
+    "twitter": "https://twitter.com/GorillaFightCoin",
+    "discord": "https://discord.gg/gorillafight"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/GORILLAFIGHT/gorillafight-token/refs/heads/main/A5D2E632-8C62-44B0-ACE4-CE40D4A6F89E.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
